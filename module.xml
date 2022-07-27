@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="custom2sda.ZPM">
+    <Module>
+      <Name>custom2sda</Name>
+      <Description>Sample how to convert from custom format to SDA using IRIS for Health</Description>
+      <Version>1.0.0</Version>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="customsda.PKG"/>
+      <SystemRequirements Version=">=2020.1" Interoperability="enabled" />
+    </Module>
+  </Document>
+</Export>
