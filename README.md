@@ -1,4 +1,6 @@
 ## custom2sda
+ [![Quality Gate Status](https://community.objectscriptquality.com/api/project_badges/measure?project=intersystems_iris_community%2Fcustom2sda&metric=alert_status)](https://community.objectscriptquality.com/dashboard?id=intersystems_iris_community%2Fcustom2sda)
+ 
 This is a sample how to convert from a custom patient data format to the InterSystems SDA format, using IRIS for Health productions.
 
 ## Installation: ZPM
